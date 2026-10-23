@@ -1,0 +1,7 @@
+{
+  "module_cards": true,
+  "columns": 6,
+  "background_color": "#000000",
+  "dock_band": false,
+  "dock_apps": ["com.netflix.ninja","com.google.android.youtube.tv","com.disney.disneyplus"]
+}
