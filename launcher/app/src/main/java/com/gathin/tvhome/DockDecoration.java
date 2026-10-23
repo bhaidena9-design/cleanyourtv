@@ -130,3 +130,4 @@ public class DockDecoration extends RecyclerView.ItemDecoration {
         c.drawRoundRect(rect, radius, radius, edge);
     }
 }
+0xFF141416  ->  0x22FFFFFF
